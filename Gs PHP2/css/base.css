@@ -1,0 +1,27 @@
+/********************************
+ takasusukisample
+ supported by Namishi@CriativeUnitHystericEnd.
+ 製作開始 2021.9.23
+
+********************************/
+
+/********************************
+注意事項
+①bootstrap3系使用。
+②styleは別書にすること。
+③wrapを導入max-width:1024pxでセンタリングで枠組みを組めます。
+④メディアクエリブレイクポイント
+@media screen and (max-width: 1024px) { }
+@media screen and (max-width: 896px) { }
+@media screen and (max-width: 480px) { }
+PC first 対応。
+
+********************************/
+
+/********** 全体共通 **********/
+@media screen and (min-width: 1024px) {
+
+
+
+
+}
